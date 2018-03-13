@@ -23,7 +23,7 @@ Tested with NFS Most Wanted
 <br>
 
 ### To-Do
-- Use two threads for turnning wheel and GasAndBreak
+- Use two threads for turning wheel and GasAndBreak
 - Much more suitable algorithmes will improve the handling.
 
 
