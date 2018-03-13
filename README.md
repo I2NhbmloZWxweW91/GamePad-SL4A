@@ -5,12 +5,12 @@
 I wanted to check is it possible to control a PC game using an android device. So I created a prototype programme using SL4A which uses the accelometer and allow anyone to do whatever they want using X Y Z values. In here I'm going to use them for turning a wheel left-right and release gas and push break in a car game.
 
 
-<br><br>
+<br>
 ### Prerequisites 
  - Python interpreter in Android with standard libraries
 
 
-<br><br>
+<br>
 ### Setup
 1. Set A D W S keys properly in your game
 2. Make sure to connect both devices to a same network
@@ -31,7 +31,7 @@ Tested with NFS Most Wanted
 
 Have Fun ^-^
 
-<br><br><br><br>
+<br><br>
 
 ### License
 GNU General Public License version 3 (GPLv3)
