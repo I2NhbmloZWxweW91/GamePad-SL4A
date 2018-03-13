@@ -17,7 +17,6 @@ I wanted to check is it possible to control a PC game using an android device. S
 3. Run sender.py in your Android
 4. Change `HOST` in controller.py and run
 
-<br>
 
 ### Tested 
 Tested with NFS Most Wanted
