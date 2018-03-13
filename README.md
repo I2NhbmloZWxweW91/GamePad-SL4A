@@ -8,7 +8,7 @@ I wanted to check is it possible to control a PC game using an android device. S
 
 ### Prerequisites 
  - Python interpreter in Android with standard libraries
-<br>
+
 
 
 ### Setup
