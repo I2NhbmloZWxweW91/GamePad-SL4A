@@ -2,6 +2,7 @@
  -- Run this on Android -- 
 Usage : send X Y values of the accelometer
 By    : @_hddananjaya
+Ver   : 0.0.1
 """
 
 import socket as skt 
