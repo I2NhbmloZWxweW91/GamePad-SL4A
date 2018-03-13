@@ -1,11 +1,14 @@
 # GamePad-SL4A
 
+
 ### Introduction
-I wanted to check is it possible to control a PC game using an android device. So I created a prototype programme using SL4A which uses the accelometer and allow anyone to do whatever they want using X Y Z values.
+I wanted to check is it possible to control a PC game using an android device. So I created a prototype programme using SL4A which uses the accelometer and allow anyone to do whatever they want using X Y Z values. In here I'm going to use them for turning a wheel left-right and release gas and push break in a car game.
+
 
 
 ### Prerequisites 
  - Python interpreter in Android with standard libraries
+
 
 
 ### Setup
@@ -15,14 +18,20 @@ I wanted to check is it possible to control a PC game using an android device. S
 4. Change `HOST` in controller.py and run
 
 
+
 ### Tested 
 Tested with NFS Most Wanted
+
 
 ### To-Do
 - Use two threads for turnning wheel and GasAndBreak
 - Much more suitable algorithmes will improve the handling.
 
+
+
 Have Fun ^-^
+
+
 
 ### License
 GNU General Public License version 3 (GPLv3)
