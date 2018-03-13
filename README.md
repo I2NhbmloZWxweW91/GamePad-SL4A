@@ -25,13 +25,9 @@ Tested with NFS Most Wanted
 ### To-Do
 - Use two threads for turning wheel and GasAndBreak
 - Much more suitable algorithmes will improve the handling.
-
-
-<br><br>
-Have Fun ^-^
-
-<br><br>
+<br>
 
 ### License
 GNU General Public License version 3 (GPLv3)
 
+Have Fun ^-^
