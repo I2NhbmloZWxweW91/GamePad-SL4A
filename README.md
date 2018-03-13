@@ -15,7 +15,7 @@ I wanted to check is it possible to control a PC game using an android device. S
 1. Set A D W S keys properly in your game
 2. Make sure to connect both devices to a same network
 3. Run sender.py in your Android
-4. Change `HOST` in controller.py and run
+4. Change `HOST` in controller.py and run in PC
 
 
 ### Tested 
