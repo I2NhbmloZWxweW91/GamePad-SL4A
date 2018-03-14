@@ -14,14 +14,6 @@ W = 0x11
 A = 0x1E
 D = 0x20
 
-# wait till user ready
-time.sleep(5) 
-
-HOST = "192.168.99.3"
-PORT = 5555 
-conn = socket.socket()                       
-conn.connect((HOST, PORT))
-
 aY = 0
 aX = 0
 
@@ -64,6 +56,15 @@ def controlGasAndBreak(aX):
       ReleaseKey(W)
 
 def main():
+ 
+   # wait till user ready
+   time.sleep(5) 
+
+   HOST = "192.168.99.3"
+   PORT = 5555 
+   conn = socket.socket()                       
+   conn.connect((HOST, PORT))
+   
    while True:
       
       try :
